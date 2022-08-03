@@ -1,0 +1,39 @@
+About me
+Mr. Natnawat Panisarasirikul study at Faculty of Informatics, Burapha University, Thailand.
+He received his Secondary School from Chonrajsadormumrung School. 
+His experience in Microsoft Office, Discord Bot, LINE Chat Bot and NodeJS.
+He is interested in Data Structure, Artificial intelligence and IoT.
+
+
+Experience
+	- CO-Founder of Legendary of knight (Discord Community) 2019 - current
+	- Founder of wYam 2019 - current
+	- Student council 2016 - 2020
+	- Cluster 5 Pesident 2022 - current
+	- Branch Pesident 2022 - current
+	- Teacher Assistant 2020-2021
+
+
+Education
+	- Primary School grade 1-3 Huakapi
+	- Primary School grade 4-6 Prasertsuk
+	- Secondary School grade 7-9 Prasertsuk
+	- Secondary School grade 10-12 Chonrajsadornumrung
+
+Skill
+	- JavaScript
+	- Java
+	- Python
+	- Photoshop
+	- Premiere Pro
+
+contact
+	- withyamroll.com/contact
+
+reference
+Peerasak Pianprasit
+	peerasak@buu.ac.th
+	Professor, BUU
+Athita On-uean
+	athita@go.buu.ac.th
+	Professor, BUU
